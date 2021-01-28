@@ -31,5 +31,9 @@ echo gettype($verdadero); // boolean
 echo "<br>" ;
 
 
+// Debugear 
+$mi_nombre []= "Maria Pinto Fullstack";
+$mi_nombre []= "Maria Pinto Fullstack";
+var_dump($mi_nombre); // Te muestra que tipo de datos contiene esa variable;
 
 
